@@ -3,4 +3,7 @@ app = Flask("__name__")
 @app.route('/')
 def hello(): 
     return """Bonjour Mon frère \
-        C'est vraiment cool. Je vais devenir un expert en architecture Cloud Natives"""
+        C'est vraiment cool. Je vais devenir un expert en architecture Cloud Natives
+        Dans un premier temps je commence par Flask
+        Ensuite ja vais vers les architecture cloud native avec une appli flask/aws ou flask/azure
+        Le debugger c'est cool"""
