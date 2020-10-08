@@ -6,4 +6,5 @@ def hello():
         C'est vraiment cool. Je vais devenir un expert en architecture Cloud Natives
         Dans un premier temps je commence par Flask
         Ensuite ja vais vers les architecture cloud native avec une appli flask/aws ou flask/azure
-        Le debugger c'est cool"""
+        Le debugger c'est cool
+        il faudra se donner du temps"""
